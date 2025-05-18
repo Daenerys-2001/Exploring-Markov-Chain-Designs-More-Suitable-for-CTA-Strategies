@@ -1,1 +1,2 @@
 # Exploring-Markov-Chain-Designs-More-Suitable-for-CTA-Strategies
+Since the CTA strategy is a trend-following strategy, the design of the traditional IC formula needs to be improved. Previously, the mining of alpha factors using reinforcement learning would design the reward function to correlate with the expression of the IC, and if the expression of the IC fails to present our goal, then the reward function also fails to reflect our goal, resulting in poor factor performance
